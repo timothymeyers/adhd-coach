@@ -8,7 +8,7 @@ Works in GitHub Copilot CLI, Claude Code, and other clients that support [Agent 
 
 ## ⚠️ Please read this first
 
-**I am not a clinician.** I have no training in psychology, psychiatry, medicine, counselling, or any related field. I'm a software engineer who built a set of prompts that work for my own ADHD brain, and published them in case they're useful to someone else.
+**I am not a clinician.** I have no training in psychology, psychiatry, medicine, counselling, or any related field. I'm a software engineer who built a set of prompts that work for my own brain, and published them in case they're useful to someone else.
 
 **This is a personal project shared as-is.** It is not a medical device, not a therapeutic tool, not a clinical instrument, and has not been reviewed or validated by any professional or institution.
 
