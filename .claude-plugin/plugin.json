@@ -1,0 +1,21 @@
+{
+  "name": "adhd-coach",
+  "version": "1.0.0",
+  "description": "An ADHD-informed coach that diagnoses what's actually blocking you — dopamine dip, burnout, boredom, initiation resistance, missing urgency — and delivers the right intervention instead of generic productivity advice.",
+  "author": {
+    "name": "Timothy Meyers",
+    "url": "https://github.com/timothymeyers"
+  },
+  "homepage": "https://github.com/timothymeyers/adhd-coach",
+  "repository": "https://github.com/timothymeyers/adhd-coach",
+  "license": "MIT",
+  "keywords": [
+    "adhd",
+    "coaching",
+    "productivity",
+    "executive-function",
+    "motivation",
+    "focus",
+    "neurodivergent"
+  ]
+}

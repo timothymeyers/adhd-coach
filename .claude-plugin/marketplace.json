@@ -1,0 +1,18 @@
+{
+  "name": "adhd-coach",
+  "owner": {
+    "name": "Timothy Meyers",
+    "url": "https://github.com/timothymeyers"
+  },
+  "metadata": {
+    "description": "ADHD coaching skills for AI agents.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "adhd-coach",
+      "source": "./",
+      "description": "An ADHD-informed coach that diagnoses what's actually blocking you and delivers the right intervention — not generic productivity advice."
+    }
+  ]
+}
